@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "ブリキノダンス",
+  "base_artist": "Ado",
+  "createdAt": "2025-12-02T07:40:08.213787Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ブリキノダンス",
+      "artist": "ワンダーランズ×ショウタイム feat. 天馬司&神代類&鏡音レン",
+      "has_synced": false,
+      "path": "select/01_ブリキノダンス_ワンダーランズ×ショウタイム_feat._天馬司&神代類&鏡音レン.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ブリキノダンス",
+      "artist": "日向電工",
+      "has_synced": true,
+      "path": "select/02_ブリキノダンス_日向電工.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ブリキノダンス (feat. 天馬司&神代類&鏡音レン)",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": true,
+      "path": "select/03_ブリキノダンス_(feat._天馬司&神代類&鏡音レン)_ワンダーランズ×ショウタイム.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ブリキノダンス",
+      "artist": "ワンダーランズ×ショウタイム feat. 天馬司&神代類&鏡音レン",
+      "has_synced": true,
+      "path": "select/04_ブリキノダンス_ワンダーランズ×ショウタイム_feat._天馬司&神代類&鏡音レン.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ブリキノダンス",
+      "artist": "SymaG",
+      "has_synced": true,
+      "path": "select/05_ブリキノダンス_SymaG.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ブリキノダンス",
+      "artist": "Kuroneko",
+      "has_synced": true,
+      "path": "select/06_ブリキノダンス_Kuroneko.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ブリキノダンス",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/07_ブリキノダンス_Ado.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ブリキノダンス - Buriki No Dance",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/08_ブリキノダンス_-_Buriki_No_Dance_Ado.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ブリキノダンス - Buriki no dance",
+      "artist": "SymaG",
+      "has_synced": true,
+      "path": "select/09_ブリキノダンス_-_Buriki_no_dance_SymaG.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ブリキノダンス - Buriki no Dance",
+      "artist": "Meychan",
+      "has_synced": true,
+      "path": "select/10_ブリキノダンス_-_Buriki_no_Dance_Meychan.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ブリキノダンス - Buriki No Dance",
+      "artist": "Kuroneko",
+      "has_synced": true,
+      "path": "select/11_ブリキノダンス_-_Buriki_No_Dance_Kuroneko.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ブリキノダンス",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/pl_01_ブリキノダンス_Ado.txt"
+    }
+  ]
+}
